@@ -1,0 +1,12 @@
+*
+// src
+!src/
+!src/**
+
+// root
+!.gitignore
+!build.gradle
+!gradlew
+!gradlew.bat
+!HELP.md
+!settings.gradle
